@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Lession 5 Task 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Lession 5 Task 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Degree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Degree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Division.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Division.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Multiplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Multiplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Degree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Degree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Subtraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Subtraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Subtraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Subtraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Multiplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{087DEF0B-B225-4233-8C29-C033ABF436D1}|Lession 5 Task 1.vcxproj|solutionrelative:Multiplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subtraction.cpp",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Subtraction.cpp",
+              "RelativeDocumentMoniker": "Subtraction.cpp",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Subtraction.cpp",
+              "RelativeToolTip": "Subtraction.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T09:37:08.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Subtraction.h",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Subtraction.h",
+              "RelativeDocumentMoniker": "Subtraction.h",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Subtraction.h",
+              "RelativeToolTip": "Subtraction.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T09:35:38.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sum.cpp",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Sum.cpp",
+              "RelativeDocumentMoniker": "Sum.cpp",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Sum.cpp",
+              "RelativeToolTip": "Sum.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T09:01:29.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sum.h",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Sum.h",
+              "RelativeDocumentMoniker": "Sum.h",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Sum.h",
+              "RelativeToolTip": "Sum.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T08:57:23.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Degree.h",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Degree.h",
+              "RelativeDocumentMoniker": "Degree.h",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Degree.h",
+              "RelativeToolTip": "Degree.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T09:59:20.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Degree.cpp",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Degree.cpp",
+              "RelativeDocumentMoniker": "Degree.cpp",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Degree.cpp",
+              "RelativeToolTip": "Degree.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T09:59:42.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Multiplication.cpp",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Multiplication.cpp",
+              "RelativeDocumentMoniker": "Multiplication.cpp",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Multiplication.cpp",
+              "RelativeToolTip": "Multiplication.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T09:43:09.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Division.h",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Division.h",
+              "RelativeDocumentMoniker": "Division.h",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Division.h",
+              "RelativeToolTip": "Division.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T09:55:58.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Division.cpp",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Division.cpp",
+              "RelativeDocumentMoniker": "Division.cpp",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Division.cpp",
+              "RelativeToolTip": "Division.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T09:56:17.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lession 5 Task 1.cpp",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Lession 5 Task 1.cpp",
+              "RelativeDocumentMoniker": "Lession 5 Task 1.cpp",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Lession 5 Task 1.cpp",
+              "RelativeToolTip": "Lession 5 Task 1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-25T18:05:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Multiplication.h",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Multiplication.h",
+              "RelativeDocumentMoniker": "Multiplication.h",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 5 Task 1\\Multiplication.h",
+              "RelativeToolTip": "Multiplication.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T09:42:48.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
